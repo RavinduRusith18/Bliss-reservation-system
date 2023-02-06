@@ -9,8 +9,12 @@ The project is a room reservation system, which allows customers to search for a
 The data collected from these functions is stored in MongoDB, a NoSQL database, which provides flexibility and scalability for the project. Express.js is used as a web framework, it allows for the creation of RESTful APIs, which connects the front-end React.js with the back-end Node.js and MongoDB. React.js is used as a front-end library, it allows for the creation of a dynamic and interactive user interface, which can efficiently update the data without requiring a page refresh. Node.js is used as a back-end runtime environment, it allows for the execution of JavaScript code on the server-side, which enables the project to handle server-side logic and connect with the database.
 
 Overall, the MERN stack provides a powerful and efficient technology stack for building this room reservation system project, with a robust back-end and a responsive and user-friendly front-end.
-*To Run this project in your local computer you need to run <u>npm i</u> in your VS Code Terminal*
 
+##
+
+<h4>To Run this project in your local computer you need to run npm i command on your VS Code Terminal</h4>
+
+##
 
 <h3 align="left">Languages and Tools:</h3>
 
